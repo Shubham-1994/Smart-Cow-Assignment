@@ -1,0 +1,19 @@
+.input {
+  border: 1px solid #999999;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+.input--small {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.input--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+  width: 360px;
+  height: 40px;
+}
+.input--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}
